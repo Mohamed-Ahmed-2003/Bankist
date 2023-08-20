@@ -77,7 +77,7 @@ const account5 = {
   currency: "USD",
   locale: "en-US",
 };
-const accounts = [account1, account2,account5];
+const accounts = [account1, account2,account3,account4,account5];
 
 // Elements
 const labelWelcome = document.querySelector(".welcome");
